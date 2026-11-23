@@ -1,0 +1,6 @@
+{
+  "name": "SKY-GUARD",
+  "description": "AI 자율 비행 드론 임무 수행 및 실시간 3D 관제 시뮬레이션 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
